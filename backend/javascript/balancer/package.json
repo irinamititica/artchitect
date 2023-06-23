@@ -31,7 +31,7 @@
     "dotenv": "^16.0.0",
     "eslint": "^8.14.0",
     "eslint-config-prettier": "^8.5.0",
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.17",
     "prettier": "^2.6.2"
   },
   "dependencies": {
