@@ -1,4 +1,4 @@
-FROM nginx:1.23
+FROM nginx:1.25.3
 
 ENV NGINX_PORT 80
 ENV NGINX_HOST balancer_nginx
